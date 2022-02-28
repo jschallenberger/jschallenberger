@@ -1,18 +1,12 @@
-### Hi there 👋
+## Welcome to my profile! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jschallenberger)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschallenberger&hide=kotlin&layout=compact&theme=dark)]
 
-<!--
-**jschallenberger/jschallenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on John Deere
+- 🌱 I’m currently learning Solidity and Blockchain
+- 💬 Ask me about Bitcoin, Ethereum and BNB
+- ⚡ Fun fact: I'm a Bitcoin hodler
+<img src="https://user-images.githubusercontent.com/11379002/156076185-15366500-a3a6-4b0f-809c-2ce10b0fdf82.png" width="500px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
