@@ -1,4 +1,4 @@
-## Welcome to my profile! 👋
+## Hello everyone! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschallenberger&hide=kotlin&layout=compact&theme=dark)]
 
